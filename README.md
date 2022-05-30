@@ -1,2 +1,2 @@
-# Navbar
+# Static-Card
 Created with CodeSandbox
